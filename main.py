@@ -14,7 +14,6 @@ def post_message(token, channel, text):
 
 
 URL = "https://store.sony.co.kr/handler/ViewProduct-Start?productId=92487311"
-# myToken = "xoxb-1983717984807-2004666170148-3xZmECauP7Vg6rGGgr4OTTKH"
 myToken = "xoxb-1983717984807-2004666170148-3xZmECauP7Vg6rGGgr4OTTKH"
 
 # Session 생성
